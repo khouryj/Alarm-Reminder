@@ -5,10 +5,8 @@
              x:Class="ReminderApp.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Button Text="New Reminder" Clicked=""/>
+        <Button Text="Existing Reminders" Clicked=" "/>
     </StackLayout>
 
 </ContentPage>

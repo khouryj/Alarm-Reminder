@@ -1,1 +1,1 @@
-C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp.UWP\ReminderApp.UWP.csproj;x86
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp.UWP\ReminderApp.UWP.csproj;x86

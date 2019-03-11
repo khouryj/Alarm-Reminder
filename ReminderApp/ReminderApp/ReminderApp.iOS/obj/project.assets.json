@@ -716,20 +716,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josep\\.nuget\\packages\\": {}
+    "C:\\Users\\beasl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\Documents\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\ReminderApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\beasl\\OneDrive\\Desktop\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\ReminderApp.iOS.csproj",
       "projectName": "ReminderApp.iOS",
-      "projectPath": "C:\\Users\\josep\\Documents\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\ReminderApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\Documents\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\beasl\\OneDrive\\Desktop\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\ReminderApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\beasl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\beasl\\OneDrive\\Desktop\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\beasl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -742,8 +742,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\josep\\Documents\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp\\ReminderApp.csproj": {
-              "projectPath": "C:\\Users\\josep\\Documents\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp\\ReminderApp.csproj"
+            "C:\\Users\\beasl\\OneDrive\\Desktop\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp\\ReminderApp.csproj": {
+              "projectPath": "C:\\Users\\beasl\\OneDrive\\Desktop\\Alarm-Reminder\\ReminderApp\\ReminderApp\\ReminderApp\\ReminderApp.csproj"
             }
           }
         }

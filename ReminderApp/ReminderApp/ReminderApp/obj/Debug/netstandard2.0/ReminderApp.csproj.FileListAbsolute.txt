@@ -10,3 +10,15 @@ C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.dll
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.pdb
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.csprojAssemblyReference.cache
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.dll
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.pdb
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\bin\Debug\netstandard2.0\ReminderApp.deps.json
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\bin\Debug\netstandard2.0\ReminderApp.dll
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\bin\Debug\netstandard2.0\ReminderApp.pdb
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.csproj.CoreCompileInputs.cache
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.AssemblyInfoInputs.cache
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.AssemblyInfo.cs
+C:\Users\beasl\OneDrive\Desktop\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\XamlC.stamp
