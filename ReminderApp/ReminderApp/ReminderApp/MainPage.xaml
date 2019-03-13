@@ -2,13 +2,16 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:ReminderApp"
-             x:Class="ReminderApp.MainPage">
+             x:Class="ReminderApp.MainPage"
+             BackgroundImage="https://i.kym-cdn.com/photos/images/original/001/330/437/956.png">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Label Text=" " FontSize="90"/>
+        <Label Text="Alarm App" TextColor="Blue" FontSize="48" VerticalOptions="Start" HorizontalOptions="Center"/>
+        <Label Text=" " FontSize="75"/>
+        <Button x:Name="setBtn" Text="Set An Alarm" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="Btn_Clicked"/>
+        <Label Text=" " FontSize="100"/>
+        <Button x:Name="editBtn" Text="Edit Set Alarms" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="Btn_Clicked"/>
     </StackLayout>
 
 </ContentPage>

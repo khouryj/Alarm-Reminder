@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReminderApp.SetPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Go Back" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="End" HorizontalOptions="Center" WidthRequest="480" Clicked="Button_Clicked"/>
+            <Label Text=" " FontSize="100" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

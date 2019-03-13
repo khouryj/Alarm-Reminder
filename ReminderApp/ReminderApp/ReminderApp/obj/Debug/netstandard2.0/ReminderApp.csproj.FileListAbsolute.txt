@@ -10,3 +10,4 @@ C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.dll
 C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\ReminderApp.pdb
+C:\Users\josep\Documents\Alarm-Reminder\ReminderApp\ReminderApp\ReminderApp\obj\Debug\netstandard2.0\SetPage.xaml.g.cs
