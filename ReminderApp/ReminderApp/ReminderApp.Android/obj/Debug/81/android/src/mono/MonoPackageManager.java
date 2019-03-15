@@ -106,6 +106,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "ReminderApp.Android.dll" comes first in this list. */
+		"ReminderApp.Android.dll",
 		"FormsViewGroup.dll",
 		"ReminderApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

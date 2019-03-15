@@ -14,19 +14,14 @@ namespace ReminderApp
             InitializeComponent();
         }
 
-        private async void Btn_Clicked(object sender, EventArgs e)
+        private void SetBtn_Clicked(object sender, EventArgs e)
         {
-            Button btn = (Button)sender;
-            //https://youtu.be/789LHEL2lO4 Navigation Page tutorial
-            NavigationPage page = new NavigationPage();
-            if (btn.Text == setBtn.Text)
-            {
-                
-            }
-            else if (btn.Text == editBtn.Text)
-            {
+            Navigation.PushAsync(new SetPage());
+        }
 
-            }
+        private void EditBtn_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
 }

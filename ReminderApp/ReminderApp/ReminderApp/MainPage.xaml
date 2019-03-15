@@ -9,9 +9,9 @@
         <Label Text=" " FontSize="90"/>
         <Label Text="Alarm App" TextColor="Blue" FontSize="48" VerticalOptions="Start" HorizontalOptions="Center"/>
         <Label Text=" " FontSize="75"/>
-        <Button x:Name="setBtn" Text="Set An Alarm" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="Btn_Clicked"/>
+        <Button x:Name="setBtn" Text="Set An Alarm" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="SetBtn_Clicked"/>
         <Label Text=" " FontSize="100"/>
-        <Button x:Name="editBtn" Text="Edit Set Alarms" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="Btn_Clicked"/>
+        <Button x:Name="editBtn" Text="Edit Set Alarms" FontSize="24" TextColor="Red" BackgroundColor="Aqua" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="480" Clicked="EditBtn_Clicked"/>
     </StackLayout>
 
 </ContentPage>
